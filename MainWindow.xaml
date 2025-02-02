@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:AdPatcher"
         mc:Ignorable="d"
         Title="AdPatcher" Height="300" Width="250" ResizeMode="NoResize">
-    <Grid Height="284">
+    <Grid Height="284" Margin="-7,8,-7,-8">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="14*"/>
             <ColumnDefinition Width="111*"/>

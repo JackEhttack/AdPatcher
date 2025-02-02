@@ -19,7 +19,8 @@ applications.
 
 ## Potential Issues
 If after applying the tool you find yourself unable to launch the app you can
-revert the changes by navigating to the folder where `app.asar` is located.
+revert the changes by navigating to the folder where `app.asar` is located and
+renaming the `app.asar.backup` to just `app.asar`.
 
 ## Compatibilities:
 The following is a list of known compatible applications:
